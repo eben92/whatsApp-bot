@@ -1,0 +1,20 @@
+2022/06/25-22:37:47.943 5734 Reusing MANIFEST C:\Users\pappy\Desktop\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/25-22:37:47.944 5734 Recovering log #147
+2022/06/25-22:37:48.152 5734 Reusing old log C:\Users\pappy\Desktop\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000147.log 
+2022/06/25-22:38:00.988 3c40 Level-0 table #156: started
+2022/06/25-22:38:01.036 3c40 Level-0 table #156: 1175616 bytes OK
+2022/06/25-22:38:01.041 3c40 Delete type=0 #147
+2022/06/25-22:38:03.746 2f18 Compacting 1@1 + 5@2 files
+2022/06/25-22:38:04.088 2f18 Generated table #157@1: 31915 keys, 2223958 bytes
+2022/06/25-22:38:04.210 2f18 Generated table #158@1: 3079 keys, 2157281 bytes
+2022/06/25-22:38:04.600 2f18 Generated table #159@1: 23418 keys, 2231674 bytes
+2022/06/25-22:38:04.981 2f18 Generated table #160@1: 68474 keys, 2209673 bytes
+2022/06/25-22:38:05.232 2f18 Generated table #161@1: 34757 keys, 723269 bytes
+2022/06/25-22:38:05.232 2f18 Compacted 1@1 + 5@2 files => 9545855 bytes
+2022/06/25-22:38:05.238 2f18 compacted to: files[ 0 0 7 0 0 0 0 ]
+2022/06/25-22:38:05.240 2f18 Delete type=2 #149
+2022/06/25-22:38:05.240 2f18 Delete type=2 #150
+2022/06/25-22:38:05.240 2f18 Delete type=2 #151
+2022/06/25-22:38:05.240 2f18 Delete type=2 #152
+2022/06/25-22:38:05.240 2f18 Delete type=2 #153
+2022/06/25-22:38:05.240 2f18 Delete type=2 #156

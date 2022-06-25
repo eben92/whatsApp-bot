@@ -1,0 +1,4 @@
+[0625/223915.567:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[0625/223915.567:ERROR:cache_util.cc(146)] Unable to move cache folder C:\Users\pappy\Desktop\whatsapp-bot\.wwebjs_auth\session\Default\GPUCache to C:\Users\pappy\Desktop\whatsapp-bot\.wwebjs_auth\session\Default\old_GPUCache_000
+[0625/223915.567:ERROR:disk_cache.cc(192)] Unable to create cache
+[0625/223915.567:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
